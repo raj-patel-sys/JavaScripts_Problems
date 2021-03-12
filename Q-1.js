@@ -1,7 +1,7 @@
 // Q-1 => Return the Sum of Numbers
 
 // As we know there are different possible solutions to solve a problems 
-// Note :- Here variables are considered as Non-meaningful as it shows the lack of understandability and redability of code.
+// Note :- Here variables used are considered as Non-meaningful as it shows the lack of understandability and redability of code.
 //         Thus it is not a good practice, so try to use a meaningful variables. 
 
 
